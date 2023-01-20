@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url('/fonts/RedHatDisplay-Light.eot');
+    src: url('/fonts/RedHatDisplay-Light.svg') format('embedded-opentype'),
+        url('/fonts/RedHatDisplay-Light.ttf') format('woff2'),
+        url('/fonts/RedHatDisplay-Light.woff') format('woff'),
+        url('/fonts/RedHatDisplay-Light.woff') format('truetype'),
+        url('/fonts/RedHatDisplay-Light.woff2') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
